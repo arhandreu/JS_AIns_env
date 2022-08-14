@@ -1,4 +1,4 @@
 test('', () => {
-    const a = 'Test';
-    expect(a).toEqual('Test');
-  });
+  const a = 'Test';
+  expect(a).toEqual('Test');
+});
